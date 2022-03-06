@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trilok3003&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trilok3003)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trilok3003)
+![weak stats](https://github-readme-stats.vercel.app/api/wakatime?username=trilok3003)
