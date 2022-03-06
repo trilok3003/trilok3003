@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p> -->
 
-<code>
- {
+
+ `{
   pronouns: "He" | "Him",
   code: ["Javascript", "Typescript", "Python (Basic)"],
   askMeAbout: ["web dev", "tech", "app dev"],
@@ -58,8 +58,7 @@ Here are some ideas to get you started:
     misc: ["Firebase", "IOT", "RaspberryPi"],
   },
   architecture: ["Progressive web applications", "Single page applications"],
-};
-</code>
+};`
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=trilok3003.trilok3003)
 [![Github](https://img.shields.io/github/followers/trilok3003?label=Follow&style=social)](https://github.com/trilok3003)
