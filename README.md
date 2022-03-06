@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </p> -->
 
 
- `{
+<!--  `{
   pronouns: "He" | "Him",
   code: ["Javascript", "Typescript", "Python (Basic)"],
   askMeAbout: ["web dev", "tech", "app dev"],
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
     misc: ["Firebase", "IOT", "RaspberryPi"],
   },
   architecture: ["Progressive web applications", "Single page applications"],
-};`
+};` -->
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=trilok3003.trilok3003)
 [![Github](https://img.shields.io/github/followers/trilok3003?label=Follow&style=social)](https://github.com/trilok3003)
